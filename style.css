@@ -1,0 +1,10 @@
+
+
+.bg {
+    background-image: url(img/candy1.jpg);
+}
+
+.bodyContainer {
+    background-color: #ffe259 ;
+    background: linear-gradient(to right, #ffa751, #ffe259);
+}
